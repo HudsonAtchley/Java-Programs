@@ -31,5 +31,6 @@ public class AddVowels
 	
 		}
 		System.out.println();
+		kb.close();
 	}
 }

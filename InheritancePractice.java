@@ -1,4 +1,3 @@
-package Java;
 //Superclass definition
 class Vehicle
 {

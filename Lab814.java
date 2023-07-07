@@ -1,4 +1,3 @@
-package Java;
 public class Lab814
 {
 	public static void main(String [] args)
